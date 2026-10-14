@@ -1,0 +1,482 @@
+[
+  {
+    "q": 1,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 4,
+        "score": 0.31,
+        "text": "cemia), which draws fluid out of tissues and impairs normal cellular function.\n\n## 4. Diagnostic Criteria\n\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Gluco"
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.077,
+        "text": "# Type 2 Diabetes Mellitus: A Clinical and Patient Guide\n\n## 1. Overview\n\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It i"
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.076,
+        "text": "w 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\n\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL.\n\n## 5. Treatment Approaches\n\n### 5.1 Lifestyle Modifications\n\nLifestyle change is "
+      }
+    ]
+  },
+  {
+    "q": 1,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 3,
+        "score": 0.289,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 4. Diagnostic Criteria]\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL."
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.039,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 1. Overview]\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It is one of the most common chronic diseases worldwide and a leading cause of cardiovascular disease, kidney failure, and vision loss if left unmanaged."
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.036,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 7. Monitoring and Follow-up]\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests for kidney function\n- Regular blood pressure and cholesterol checks, since cardiovascular risk is elevated"
+      }
+    ]
+  },
+  {
+    "q": 2,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "no",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 15,
+        "score": 0.118,
+        "text": " diagnosed early and able to achieve substantial weight loss, blood sugar can return to a non-diabetic range without medication \u2014 often referred to as remission. It is not considered a permanent \"cure,\" and ongoing healthy habits are needed to maintain it.\n\n**Can Type 2 diabetes be prevented?** In people at high risk (such as those with prediabetes), structured lifestyle programs focusing on modest weight loss and increased physical activity have been shown to significantly reduce the chance of "
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.109,
+        "text": "cemia), which draws fluid out of tissues and impairs normal cellular function.\n\n## 4. Diagnostic Criteria\n\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Gluco"
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.054,
+        "text": " to the limbs, which can lead to poor wound healing and, in severe cases, amputation\n\n## 7. Monitoring and Follow-up\n\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests f"
+      }
+    ]
+  },
+  {
+    "q": 2,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "no",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 12,
+        "score": 0.087,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 10. Frequently Asked Questions]\n**Is Type 2 diabetes reversible?** For some people, especially those diagnosed early and able to achieve substantial weight loss, blood sugar can return to a non-diabetic range without medication \u2014 often referred to as remission. It is not considered a permanent \"cure,\" and ongoing healthy habits are needed to maintain it.\n**Can Type 2 diabetes be prevented?** In people at high risk (such as those with prediabetes), structured lifestyle programs focusing on modest weight loss and increased physical activity have been shown to significantly reduce the chance of progressing to full diabetes.\n**Does Type 2 diabetes always require insulin?** No. Many people manage the condition for years, or indefinitely, with lifestyle changes and oral medications alone. Insulin becomes necessary only when other treatments no longer provide adequate control."
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.078,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 4. Diagnostic Criteria]\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL."
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.06,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 5. Treatment Approaches > 5.3 Insulin Therapy]\nSome patients eventually require insulin, either because oral medications no longer provide adequate control or because blood sugar levels are very high at diagnosis. Insulin regimens range from a single long-acting daily injection to more intensive multiple-injection regimens combining long-acting and rapid-acting insulin around meals."
+      }
+    ]
+  },
+  {
+    "q": 3,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 7,
+        "score": 0.202,
+        "text": "tes\n- Smoking cessation\n- Limiting alcohol intake\n\n### 5.2 Oral Medications\n\nWhen lifestyle changes alone are insufficient, oral medications are typically the next step:\n\n- **Metformin** \u2014 usually the first-line drug; reduces glucose production by the liver and improves insulin sensitivity\n- **Sulfonylureas** (e.g., glipizide, glimepiride) \u2014 stimulate the pancreas to release more insulin\n- **DPP-4 inhibitors** (e.g., sitagliptin) \u2014 help the body produce more insulin after meals\n- **SGLT2 inhibit"
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.182,
+        "text": " been shown to significantly reduce the chance of progressing to full diabetes.\n\n**Does Type 2 diabetes always require insulin?** No. Many people manage the condition for years, or indefinitely, with lifestyle changes and oral medications alone. Insulin becomes necessary only when other treatments no longer provide adequate control.\n"
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.097,
+        "text": "# Type 2 Diabetes Mellitus: A Clinical and Patient Guide\n\n## 1. Overview\n\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It i"
+      }
+    ]
+  },
+  {
+    "q": 3,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 5,
+        "score": 0.188,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 5. Treatment Approaches > 5.2 Oral Medications]\nWhen lifestyle changes alone are insufficient, oral medications are typically the next step:\n- **Metformin** \u2014 usually the first-line drug; reduces glucose production by the liver and improves insulin sensitivity\n- **Sulfonylureas** (e.g., glipizide, glimepiride) \u2014 stimulate the pancreas to release more insulin\n- **DPP-4 inhibitors** (e.g., sitagliptin) \u2014 help the body produce more insulin after meals\n- **SGLT2 inhibitors** (e.g., empagliflozin) \u2014 cause the kidneys to remove excess glucose through urine, and have added cardiovascular and kidney benefits\n- **GLP-1 receptor agonists** (e.g., semaglutide) \u2014 slow digestion and increase insulin release; also support weight loss"
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.115,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 5. Treatment Approaches > 5.3 Insulin Therapy]\nSome patients eventually require insulin, either because oral medications no longer provide adequate control or because blood sugar levels are very high at diagnosis. Insulin regimens range from a single long-acting daily injection to more intensive multiple-injection regimens combining long-acting and rapid-acting insulin around meals."
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.106,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 10. Frequently Asked Questions]\n**Is Type 2 diabetes reversible?** For some people, especially those diagnosed early and able to achieve substantial weight loss, blood sugar can return to a non-diabetic range without medication \u2014 often referred to as remission. It is not considered a permanent \"cure,\" and ongoing healthy habits are needed to maintain it.\n**Can Type 2 diabetes be prevented?** In people at high risk (such as those with prediabetes), structured lifestyle programs focusing on modest weight loss and increased physical activity have been shown to significantly reduce the chance of progressing to full diabetes.\n**Does Type 2 diabetes always require insulin?** No. Many people manage the condition for years, or indefinitely, with lifestyle changes and oral medications alone. Insulin becomes necessary only when other treatments no longer provide adequate control."
+      }
+    ]
+  },
+  {
+    "q": 4,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "no",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 5,
+        "score": 0.183,
+        "text": "w 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\n\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL.\n\n## 5. Treatment Approaches\n\n### 5.1 Lifestyle Modifications\n\nLifestyle change is "
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.162,
+        "text": " Symptoms\n\nMany people with Type 2 diabetes have no symptoms for years, which is why routine screening is important. When symptoms do appear, they commonly include:\n\n- Increased thirst and frequent urination\n- Increased hunger\n- Unexplained weight loss\n- Fatigue\n- Blurred vision\n- Slow-healing sores or frequent infections\n- Tingling or numbness in the hands or feet\n\nThese symptoms arise primarily from persistently elevated blood glucose (hyperglycemia), which draws fluid out of tissues and impai"
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.043,
+        "text": " factors include:\n\n- Being overweight or obese, particularly with excess abdominal fat\n- A family history of diabetes\n- Physical inactivity\n- Age over 45 (though onset is increasingly seen in younger adults)\n- History of gestational diabetes\n- Polycystic ovary syndrome (PCOS)\n- High blood pressure or abnormal cholesterol levels\n- Certain ethnic backgrounds (e.g., South Asian, African, Hispanic, and Indigenous populations carry higher risk)\n\n## 3. Symptoms\n\nMany people with Type 2 diabetes have n"
+      }
+    ]
+  },
+  {
+    "q": 4,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 2,
+        "score": 0.169,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 3. Symptoms]\nMany people with Type 2 diabetes have no symptoms for years, which is why routine screening is important. When symptoms do appear, they commonly include:\n- Increased thirst and frequent urination\n- Increased hunger\n- Unexplained weight loss\n- Fatigue\n- Blurred vision\n- Slow-healing sores or frequent infections\n- Tingling or numbness in the hands or feet\nThese symptoms arise primarily from persistently elevated blood glucose (hyperglycemia), which draws fluid out of tissues and impairs normal cellular function."
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.148,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 4. Diagnostic Criteria]\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL."
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.0,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 2. Epidemiology and Risk Factors]\nType 2 diabetes accounts for roughly 90-95% of all diabetes cases globally. Its prevalence has risen sharply over the past few decades, closely tracking increases in obesity and sedentary lifestyles.\nCommon risk factors include:\n- Being overweight or obese, particularly with excess abdominal fat\n- A family history of diabetes\n- Physical inactivity\n- Age over 45 (though onset is increasingly seen in younger adults)\n- History of gestational diabetes\n- Polycystic ovary syndrome (PCOS)\n- High blood pressure or abnormal cholesterol levels\n- Certain ethnic backgrounds (e.g., South Asian, African, Hispanic, and Indigenous populations carry higher risk)"
+      }
+    ]
+  },
+  {
+    "q": 5,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 6,
+        "score": 0.174,
+        "text": " 5.1 Lifestyle Modifications\n\nLifestyle change is the foundation of Type 2 diabetes management, and is often effective enough to delay or reduce the need for medication:\n\n- Weight loss of even 5-7% of body weight can meaningfully improve blood sugar control\n- Regular physical activity (at least 150 minutes per week of moderate exercise)\n- A diet emphasizing whole grains, vegetables, lean protein, and reduced refined sugar and processed carbohydrates\n- Smoking cessation\n- Limiting alcohol intake\n"
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.124,
+        "text": "w 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\n\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL.\n\n## 5. Treatment Approaches\n\n### 5.1 Lifestyle Modifications\n\nLifestyle change is "
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.106,
+        "text": "# Type 2 Diabetes Mellitus: A Clinical and Patient Guide\n\n## 1. Overview\n\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It i"
+      }
+    ]
+  },
+  {
+    "q": 5,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 4,
+        "score": 0.189,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 5. Treatment Approaches > 5.1 Lifestyle Modifications]\nLifestyle change is the foundation of Type 2 diabetes management, and is often effective enough to delay or reduce the need for medication:\n- Weight loss of even 5-7% of body weight can meaningfully improve blood sugar control\n- Regular physical activity (at least 150 minutes per week of moderate exercise)\n- A diet emphasizing whole grains, vegetables, lean protein, and reduced refined sugar and processed carbohydrates\n- Smoking cessation\n- Limiting alcohol intake"
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.099,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 8. Self-Management and Lifestyle Tips]\n- Check blood glucose at home as recommended by your care team, and keep a log to spot patterns\n- Learn to recognize the signs of both high and low blood sugar\n- Carry a fast-acting source of sugar (like glucose tablets) if on medications that can cause low blood sugar\n- Keep regular meal times and avoid skipping meals\n- Inspect feet daily for cuts, blisters, or sores that might not be felt due to neuropathy\n- Stay up to date on vaccinations, since diabetes can increase infection risk"
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.074,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 10. Frequently Asked Questions]\n**Is Type 2 diabetes reversible?** For some people, especially those diagnosed early and able to achieve substantial weight loss, blood sugar can return to a non-diabetic range without medication \u2014 often referred to as remission. It is not considered a permanent \"cure,\" and ongoing healthy habits are needed to maintain it.\n**Can Type 2 diabetes be prevented?** In people at high risk (such as those with prediabetes), structured lifestyle programs focusing on modest weight loss and increased physical activity have been shown to significantly reduce the chance of progressing to full diabetes.\n**Does Type 2 diabetes always require insulin?** No. Many people manage the condition for years, or indefinitely, with lifestyle changes and oral medications alone. Insulin becomes necessary only when other treatments no longer provide adequate control."
+      }
+    ]
+  },
+  {
+    "q": 6,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 9,
+        "score": 0.194,
+        "text": "cause blood sugar levels are very high at diagnosis. Insulin regimens range from a single long-acting daily injection to more intensive multiple-injection regimens combining long-acting and rapid-acting insulin around meals.\n\n## 6. Complications\n\n### 6.1 Microvascular Complications\n\nThese affect small blood vessels and include:\n\n- **Diabetic retinopathy** \u2014 damage to the blood vessels of the retina, a leading cause of blindness in adults\n- **Diabetic nephropathy** \u2014 progressive kidney damage tha"
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.04,
+        "text": "etic nephropathy** \u2014 progressive kidney damage that can lead to kidney failure\n- **Diabetic neuropathy** \u2014 nerve damage, most often causing numbness, tingling, or pain in the feet and hands\n\n### 6.2 Macrovascular Complications\n\nThese affect larger blood vessels and include:\n\n- **Coronary artery disease** \u2014 increased risk of heart attack\n- **Cerebrovascular disease** \u2014 increased risk of stroke\n- **Peripheral vascular disease** \u2014 reduced blood flow to the limbs, which can lead to poor wound healin"
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.039,
+        "text": " to the limbs, which can lead to poor wound healing and, in severe cases, amputation\n\n## 7. Monitoring and Follow-up\n\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests f"
+      }
+    ]
+  },
+  {
+    "q": 6,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 7,
+        "score": 0.233,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 6. Complications > 6.1 Microvascular Complications]\nThese affect small blood vessels and include:\n- **Diabetic retinopathy** \u2014 damage to the blood vessels of the retina, a leading cause of blindness in adults\n- **Diabetic nephropathy** \u2014 progressive kidney damage that can lead to kidney failure\n- **Diabetic neuropathy** \u2014 nerve damage, most often causing numbness, tingling, or pain in the feet and hands"
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.085,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 6. Complications > 6.2 Macrovascular Complications]\nThese affect larger blood vessels and include:\n- **Coronary artery disease** \u2014 increased risk of heart attack\n- **Cerebrovascular disease** \u2014 increased risk of stroke\n- **Peripheral vascular disease** \u2014 reduced blood flow to the limbs, which can lead to poor wound healing and, in severe cases, amputation"
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.044,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 7. Monitoring and Follow-up]\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests for kidney function\n- Regular blood pressure and cholesterol checks, since cardiovascular risk is elevated"
+      }
+    ]
+  },
+  {
+    "q": 7,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 10,
+        "score": 0.169,
+        "text": "etic nephropathy** \u2014 progressive kidney damage that can lead to kidney failure\n- **Diabetic neuropathy** \u2014 nerve damage, most often causing numbness, tingling, or pain in the feet and hands\n\n### 6.2 Macrovascular Complications\n\nThese affect larger blood vessels and include:\n\n- **Coronary artery disease** \u2014 increased risk of heart attack\n- **Cerebrovascular disease** \u2014 increased risk of stroke\n- **Peripheral vascular disease** \u2014 reduced blood flow to the limbs, which can lead to poor wound healin"
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.066,
+        "text": "cause blood sugar levels are very high at diagnosis. Insulin regimens range from a single long-acting daily injection to more intensive multiple-injection regimens combining long-acting and rapid-acting insulin around meals.\n\n## 6. Complications\n\n### 6.1 Microvascular Complications\n\nThese affect small blood vessels and include:\n\n- **Diabetic retinopathy** \u2014 damage to the blood vessels of the retina, a leading cause of blindness in adults\n- **Diabetic nephropathy** \u2014 progressive kidney damage tha"
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.039,
+        "text": " to the limbs, which can lead to poor wound healing and, in severe cases, amputation\n\n## 7. Monitoring and Follow-up\n\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests f"
+      }
+    ]
+  },
+  {
+    "q": 7,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 8,
+        "score": 0.238,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 6. Complications > 6.2 Macrovascular Complications]\nThese affect larger blood vessels and include:\n- **Coronary artery disease** \u2014 increased risk of heart attack\n- **Cerebrovascular disease** \u2014 increased risk of stroke\n- **Peripheral vascular disease** \u2014 reduced blood flow to the limbs, which can lead to poor wound healing and, in severe cases, amputation"
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.083,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 6. Complications > 6.1 Microvascular Complications]\nThese affect small blood vessels and include:\n- **Diabetic retinopathy** \u2014 damage to the blood vessels of the retina, a leading cause of blindness in adults\n- **Diabetic nephropathy** \u2014 progressive kidney damage that can lead to kidney failure\n- **Diabetic neuropathy** \u2014 nerve damage, most often causing numbness, tingling, or pain in the feet and hands"
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.044,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 7. Monitoring and Follow-up]\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests for kidney function\n- Regular blood pressure and cholesterol checks, since cardiovascular risk is elevated"
+      }
+    ]
+  },
+  {
+    "q": 8,
+    "strategy": "A_naive",
+    "verdict_topk": "yes",
+    "verdict_top1": "no",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 0,
+        "score": 0.127,
+        "text": "# Type 2 Diabetes Mellitus: A Clinical and Patient Guide\n\n## 1. Overview\n\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It i"
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.119,
+        "text": " to the limbs, which can lead to poor wound healing and, in severe cases, amputation\n\n## 7. Monitoring and Follow-up\n\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests f"
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.087,
+        "text": " been shown to significantly reduce the chance of progressing to full diabetes.\n\n**Does Type 2 diabetes always require insulin?** No. Many people manage the condition for years, or indefinitely, with lifestyle changes and oral medications alone. Insulin becomes necessary only when other treatments no longer provide adequate control.\n"
+      }
+    ]
+  },
+  {
+    "q": 8,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 9,
+        "score": 0.148,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 7. Monitoring and Follow-up]\nOngoing monitoring is essential to catch complications early and adjust treatment as needed:\n- HbA1c testing every 3-6 months, depending on how stable blood sugar control is\n- Annual comprehensive eye exam to screen for retinopathy\n- Annual foot exam to check for neuropathy and circulation problems\n- Annual urine test for kidney function (microalbumin) and periodic blood tests for kidney function\n- Regular blood pressure and cholesterol checks, since cardiovascular risk is elevated"
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.066,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 4. Diagnostic Criteria]\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL."
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.059,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 1. Overview]\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It is one of the most common chronic diseases worldwide and a leading cause of cardiovascular disease, kidney failure, and vision loss if left unmanaged."
+      }
+    ]
+  },
+  {
+    "q": 9,
+    "strategy": "A_naive",
+    "verdict_topk": "n/a",
+    "verdict_top1": "n/a",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 0,
+        "score": 0.187,
+        "text": "# Type 2 Diabetes Mellitus: A Clinical and Patient Guide\n\n## 1. Overview\n\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It i"
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.129,
+        "text": "function (microalbumin) and periodic blood tests for kidney function\n- Regular blood pressure and cholesterol checks, since cardiovascular risk is elevated\n\n## 8. Self-Management and Lifestyle Tips\n\n- Check blood glucose at home as recommended by your care team, and keep a log to spot patterns\n- Learn to recognize the signs of both high and low blood sugar\n- Carry a fast-acting source of sugar (like glucose tablets) if on medications that can cause low blood sugar\n- Keep regular meal times and a"
+      },
+      {
+        "chunk_id": 15,
+        "score": 0.097,
+        "text": " diagnosed early and able to achieve substantial weight loss, blood sugar can return to a non-diabetic range without medication \u2014 often referred to as remission. It is not considered a permanent \"cure,\" and ongoing healthy habits are needed to maintain it.\n\n**Can Type 2 diabetes be prevented?** In people at high risk (such as those with prediabetes), structured lifestyle programs focusing on modest weight loss and increased physical activity have been shown to significantly reduce the chance of "
+      }
+    ]
+  },
+  {
+    "q": 9,
+    "strategy": "B_structure",
+    "verdict_topk": "n/a",
+    "verdict_top1": "n/a",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 10,
+        "score": 0.146,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 8. Self-Management and Lifestyle Tips]\n- Check blood glucose at home as recommended by your care team, and keep a log to spot patterns\n- Learn to recognize the signs of both high and low blood sugar\n- Carry a fast-acting source of sugar (like glucose tablets) if on medications that can cause low blood sugar\n- Keep regular meal times and avoid skipping meals\n- Inspect feet daily for cuts, blisters, or sores that might not be felt due to neuropathy\n- Stay up to date on vaccinations, since diabetes can increase infection risk"
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.128,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 1. Overview]\nType 2 diabetes mellitus (T2DM) is a chronic metabolic condition characterized by high blood glucose levels resulting from insulin resistance and, over time, reduced insulin production by the pancreas. Unlike Type 1 diabetes, which is an autoimmune condition typically diagnosed in childhood, Type 2 diabetes usually develops gradually in adults, though rising obesity rates have led to more cases in younger populations. It is one of the most common chronic diseases worldwide and a leading cause of cardiovascular disease, kidney failure, and vision loss if left unmanaged."
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.085,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 3. Symptoms]\nMany people with Type 2 diabetes have no symptoms for years, which is why routine screening is important. When symptoms do appear, they commonly include:\n- Increased thirst and frequent urination\n- Increased hunger\n- Unexplained weight loss\n- Fatigue\n- Blurred vision\n- Slow-healing sores or frequent infections\n- Tingling or numbness in the hands or feet\nThese symptoms arise primarily from persistently elevated blood glucose (hyperglycemia), which draws fluid out of tissues and impairs normal cellular function."
+      }
+    ]
+  },
+  {
+    "q": 10,
+    "strategy": "A_naive",
+    "verdict_topk": "partial",
+    "verdict_top1": "partial",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 13,
+        "score": 0.253,
+        "text": "se low blood sugar\n- Keep regular meal times and avoid skipping meals\n- Inspect feet daily for cuts, blisters, or sores that might not be felt due to neuropathy\n- Stay up to date on vaccinations, since diabetes can increase infection risk\n\n## 9. When to Seek Emergency Care\n\nSeek immediate medical attention for:\n\n- Blood glucose readings that are very high (typically above 300 mg/dL) accompanied by nausea, vomiting, confusion, or rapid breathing (possible signs of diabetic ketoacidosis or a hyper"
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.071,
+        "text": " Symptoms\n\nMany people with Type 2 diabetes have no symptoms for years, which is why routine screening is important. When symptoms do appear, they commonly include:\n\n- Increased thirst and frequent urination\n- Increased hunger\n- Unexplained weight loss\n- Fatigue\n- Blurred vision\n- Slow-healing sores or frequent infections\n- Tingling or numbness in the hands or feet\n\nThese symptoms arise primarily from persistently elevated blood glucose (hyperglycemia), which draws fluid out of tissues and impai"
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.045,
+        "text": "w 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\n\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL.\n\n## 5. Treatment Approaches\n\n### 5.1 Lifestyle Modifications\n\nLifestyle change is "
+      }
+    ]
+  },
+  {
+    "q": 10,
+    "strategy": "B_structure",
+    "verdict_topk": "yes",
+    "verdict_top1": "yes",
+    "generated_answer": null,
+    "retrieved": [
+      {
+        "chunk_id": 11,
+        "score": 0.224,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 9. When to Seek Emergency Care]\nSeek immediate medical attention for:\n- Blood glucose readings that are very high (typically above 300 mg/dL) accompanied by nausea, vomiting, confusion, or rapid breathing (possible signs of diabetic ketoacidosis or a hyperosmolar state)\n- Signs of severe low blood sugar: confusion, slurred speech, seizures, or loss of consciousness\n- Sudden chest pain, shortness of breath, or one-sided weakness (possible heart attack or stroke)\n- A foot wound that is rapidly worsening, especially with redness, swelling, or fever"
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.08,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 3. Symptoms]\nMany people with Type 2 diabetes have no symptoms for years, which is why routine screening is important. When symptoms do appear, they commonly include:\n- Increased thirst and frequent urination\n- Increased hunger\n- Unexplained weight loss\n- Fatigue\n- Blurred vision\n- Slow-healing sores or frequent infections\n- Tingling or numbness in the hands or feet\nThese symptoms arise primarily from persistently elevated blood glucose (hyperglycemia), which draws fluid out of tissues and impairs normal cellular function."
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.042,
+        "text": "[Type 2 Diabetes Mellitus: A Clinical and Patient Guide > 4. Diagnostic Criteria]\nDiagnosis is based on laboratory blood tests. The table below summarizes the standard thresholds used by most clinical guidelines:\n| Test | Normal | Prediabetes | Diabetes |\n|------|--------|-------------|----------|\n| Fasting Plasma Glucose (FPG) | Below 100 mg/dL | 100\u2013125 mg/dL | 126 mg/dL or higher |\n| HbA1c (glycated hemoglobin) | Below 5.7% | 5.7%\u20136.4% | 6.5% or higher |\n| Oral Glucose Tolerance Test (2-hour, OGTT) | Below 140 mg/dL | 140\u2013199 mg/dL | 200 mg/dL or higher |\n| Random Plasma Glucose (with symptoms) | \u2014 | \u2014 | 200 mg/dL or higher |\nA diagnosis of diabetes is usually confirmed by repeating an abnormal test on a second occasion, unless the patient has clear symptoms of hyperglycemia alongside a random glucose reading above 200 mg/dL."
+      }
+    ]
+  }
+]

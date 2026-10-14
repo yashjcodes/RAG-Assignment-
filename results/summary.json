@@ -1,0 +1,26 @@
+{
+  "embedder": "tfidf",
+  "k": 3,
+  "A_naive": {
+    "num_chunks": 17,
+    "avg_chunk_chars": 490.3,
+    "min_chunk_chars": 335,
+    "max_chunk_chars": 500,
+    "answerable_questions": 9,
+    "accuracy_strict_topk_pct": 88.9,
+    "accuracy_lenient_topk_pct": 100.0,
+    "accuracy_strict_top1_pct": 55.6,
+    "accuracy_strict_over_all10_pct": 80.0
+  },
+  "B_structure": {
+    "num_chunks": 13,
+    "avg_chunk_chars": 631.9,
+    "min_chunk_chars": 415,
+    "max_chunk_chars": 940,
+    "answerable_questions": 9,
+    "accuracy_strict_topk_pct": 100.0,
+    "accuracy_lenient_topk_pct": 100.0,
+    "accuracy_strict_top1_pct": 88.9,
+    "accuracy_strict_over_all10_pct": 90.0
+  }
+}

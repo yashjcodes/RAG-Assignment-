@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+# optional:
+# sentence-transformers   (for --embedder minilm)
+# anthropic               (for LLM answer generation)
